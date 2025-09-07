@@ -1,0 +1,1318 @@
+[
+    {
+        "antecedents_str": "Suhu 26-29, Hilang deria bau",
+        "consequents_str": "Hilang deria rasa",
+        "support": 0.052366922019249654,
+        "confidence": 0.6341579448144624,
+        "lift": 7.8897802958221614
+    },
+    {
+        "antecedents_str": "Hilang deria rasa",
+        "consequents_str": "Suhu 26-29, Hilang deria bau",
+        "support": 0.052366922019249654,
+        "confidence": 0.6515151515151515,
+        "lift": 7.889780295822161
+    },
+    {
+        "antecedents_str": "Hilang deria bau",
+        "consequents_str": "Hilang deria rasa",
+        "support": 0.06434885091337654,
+        "confidence": 0.6295157571099154,
+        "lift": 7.832025218588903
+    },
+    {
+        "antecedents_str": "Hilang deria rasa",
+        "consequents_str": "Hilang deria bau",
+        "support": 0.06434885091337654,
+        "confidence": 0.8005865102639296,
+        "lift": 7.832025218588903
+    },
+    {
+        "antecedents_str": "Suhu 26-29, Hilang deria rasa",
+        "consequents_str": "Hilang deria bau",
+        "support": 0.052366922019249654,
+        "confidence": 0.7967722653915121,
+        "lift": 7.794710997517655
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Kelembapan 58-71",
+        "consequents_str": "Suhu 29-32",
+        "support": 0.10178746808092713,
+        "confidence": 0.7104469426926241,
+        "lift": 5.223693508446201
+    },
+    {
+        "antecedents_str": "Suhu 29-32",
+        "consequents_str": "Kelajuan Angin 5-9, Kelembapan 58-71",
+        "support": 0.10178746808092713,
+        "confidence": 0.7484113229347198,
+        "lift": 5.2236935084462
+    },
+    {
+        "antecedents_str": "Kelembapan 58-71",
+        "consequents_str": "Kelajuan Angin 5-9, Suhu 29-32",
+        "support": 0.10178746808092713,
+        "confidence": 0.6448481831757094,
+        "lift": 5.075637137519382
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Suhu 29-32",
+        "consequents_str": "Kelembapan 58-71",
+        "support": 0.10178746808092713,
+        "confidence": 0.8011750154607298,
+        "lift": 5.075637137519382
+    },
+    {
+        "antecedents_str": "Suhu 29-32",
+        "consequents_str": "Kelembapan 58-71",
+        "support": 0.1070123747790218,
+        "confidence": 0.7868284228769497,
+        "lift": 4.984748010038017
+    },
+    {
+        "antecedents_str": "Kelembapan 58-71",
+        "consequents_str": "Suhu 29-32",
+        "support": 0.1070123747790218,
+        "confidence": 0.6779492284718766,
+        "lift": 4.984748010038017
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Selesema, Demam",
+        "consequents_str": "Suhu 26-29, Batuk",
+        "support": 0.07672362993517973,
+        "confidence": 0.6571332436069987,
+        "lift": 2.0961562300772116
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Selesema, Kelajuan Angin 1-5",
+        "consequents_str": "Suhu 26-29, Batuk",
+        "support": 0.05118837163622078,
+        "confidence": 0.6037998146431881,
+        "lift": 1.926030611747162
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Kelajuan Angin 5-9",
+        "consequents_str": "Batuk",
+        "support": 0.06949518758593597,
+        "confidence": 0.6918263590144701,
+        "lift": 1.811028380163856
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Demam, Suhu 26-29",
+        "consequents_str": "Batuk",
+        "support": 0.051895501866038106,
+        "confidence": 0.6876626756897449,
+        "lift": 1.800128898568743
+    },
+    {
+        "antecedents_str": "Selesema, Demam",
+        "consequents_str": "Batuk",
+        "support": 0.11451581221763897,
+        "confidence": 0.6855597365945438,
+        "lift": 1.794623929968543
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Kelembapan 71-84",
+        "consequents_str": "Batuk",
+        "support": 0.07982714594382243,
+        "confidence": 0.68371467025572,
+        "lift": 1.7897940077498304
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Selesema, Demam, Suhu 26-29",
+        "consequents_str": "Batuk",
+        "support": 0.07672362993517973,
+        "confidence": 0.683105981112277,
+        "lift": 1.7882006118071794
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Suhu 26-29",
+        "consequents_str": "Batuk",
+        "support": 0.09247692005499902,
+        "confidence": 0.6793650793650794,
+        "lift": 1.7784078666431606
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9",
+        "consequents_str": "Batuk",
+        "support": 0.11180514633667256,
+        "confidence": 0.6227571115973741,
+        "lift": 1.6302223648407197
+    },
+    {
+        "antecedents_str": "Suhu 29-32, Kelembapan 58-71",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.10178746808092713,
+        "confidence": 0.9511747430249634,
+        "lift": 1.628912344167145
+    },
+    {
+        "antecedents_str": "Selesema",
+        "consequents_str": "Batuk",
+        "support": 0.18522883519937144,
+        "confidence": 0.6190913865546218,
+        "lift": 1.6206264134870318
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Suhu 26-29",
+        "consequents_str": "Batuk",
+        "support": 0.08430563739933215,
+        "confidence": 0.6171987345412712,
+        "lift": 1.6156719238737203
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Kelembapan 71-84",
+        "consequents_str": "Batuk",
+        "support": 0.0522883519937144,
+        "confidence": 0.6167747914735866,
+        "lift": 1.6145621469518867
+    },
+    {
+        "antecedents_str": "Selesema, Kelembapan 71-84",
+        "consequents_str": "Batuk",
+        "support": 0.13011196228638774,
+        "confidence": 0.6164154103852597,
+        "lift": 1.613621377144877
+    },
+    {
+        "antecedents_str": "Selesema, Kelembapan 71-84, Suhu 26-29",
+        "consequents_str": "Batuk",
+        "support": 0.12496562561382832,
+        "confidence": 0.615995352439969,
+        "lift": 1.6125217705017902
+    },
+    {
+        "antecedents_str": "Selesema, Suhu 26-29",
+        "consequents_str": "Batuk",
+        "support": 0.15085444902769593,
+        "confidence": 0.615878107457899,
+        "lift": 1.6122148524620339
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 5-9, Suhu 26-29, Selesema",
+        "consequents_str": "Batuk",
+        "support": 0.0683166372029071,
+        "confidence": 0.6153573956121727,
+        "lift": 1.610851759081433
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Selesema, Suhu 26-29, Kelajuan Angin 1-5",
+        "consequents_str": "Batuk",
+        "support": 0.05118837163622078,
+        "confidence": 0.6152030217186024,
+        "lift": 1.610447646837415
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Kelembapan 71-84",
+        "consequents_str": "Batuk",
+        "support": 0.07236299351797289,
+        "confidence": 0.615025041736227,
+        "lift": 1.6099817397568548
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5",
+        "consequents_str": "Batuk",
+        "support": 0.06513455116872913,
+        "confidence": 0.6133925268220496,
+        "lift": 1.6057082240081522
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Suhu 26-29",
+        "consequents_str": "Batuk",
+        "support": 0.061088194853663326,
+        "confidence": 0.6126871552403467,
+        "lift": 1.6038617376226885
+    },
+    {
+        "antecedents_str": "Suhu 29-32",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.12704773129051267,
+        "confidence": 0.9341421143847486,
+        "lift": 1.5997435092615564
+    },
+    {
+        "antecedents_str": "Demam, Suhu 29-32",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.05873109408760558,
+        "confidence": 0.9268443893366397,
+        "lift": 1.587245958730097
+    },
+    {
+        "antecedents_str": "Kelembapan 58-71",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.14327244156354352,
+        "confidence": 0.9076655052264808,
+        "lift": 1.5544016035750854
+    },
+    {
+        "antecedents_str": "Demam, Kelembapan 58-71",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.0679237870752308,
+        "confidence": 0.9061844863731656,
+        "lift": 1.5518653189335931
+    },
+    {
+        "antecedents_str": "Batuk, Kelembapan 58-71",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.053427617363975645,
+        "confidence": 0.9042553191489362,
+        "lift": 1.5485615681469436
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Demam",
+        "support": 0.06949518758593597,
+        "confidence": 0.6215741391426564,
+        "lift": 1.3670442121890718
+    },
+    {
+        "antecedents_str": "Selesema, Batuk",
+        "consequents_str": "Demam",
+        "support": 0.11451581221763897,
+        "confidence": 0.6182396606574762,
+        "lift": 1.3597106067077982
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Suhu 26-29, Batuk",
+        "consequents_str": "Demam",
+        "support": 0.051895501866038106,
+        "confidence": 0.6155638397017708,
+        "lift": 1.353825603906046
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Selesema, Suhu 26-29, Batuk",
+        "consequents_str": "Demam",
+        "support": 0.07672362993517973,
+        "confidence": 0.6139578748821125,
+        "lift": 1.3502935636015356
+    },
+    {
+        "antecedents_str": "Selesema, Kelembapan 71-84, Batuk",
+        "consequents_str": "Demam",
+        "support": 0.07982714594382243,
+        "confidence": 0.6135265700483091,
+        "lift": 1.3493449836339821
+    },
+    {
+        "antecedents_str": "Selesema, Suhu 26-29, Batuk",
+        "consequents_str": "Demam",
+        "support": 0.09247692005499902,
+        "confidence": 0.6130208333333333,
+        "lift": 1.3482327036893036
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 1-5, Asimptomatik",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.07303083873502259,
+        "confidence": 0.99252536038441,
+        "lift": 1.2046313378431868
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Suhu 26-29, Asimptomatik",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.07303083873502259,
+        "confidence": 0.8590573012939001,
+        "lift": 1.2025573913570298
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 1-5",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.29341976036142214,
+        "confidence": 0.9874405076679006,
+        "lift": 1.1984598351540747
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 1-5, Demam",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.13294048320565705,
+        "confidence": 0.9848661233993016,
+        "lift": 1.1953352963872228
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 1-5, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.10936947554507956,
+        "confidence": 0.982703847511472,
+        "lift": 1.1927109349356086
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Kelembapan 71-84",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.08320565704183853,
+        "confidence": 0.9814643188137163,
+        "lift": 1.1912065148239712
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Kelembapan 71-84, Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.061284619917501476,
+        "confidence": 0.9798994974874373,
+        "lift": 1.1893072859649414
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Kelembapan 71-84, Selesema, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.05118837163622078,
+        "confidence": 0.9789631855747558,
+        "lift": 1.1881708810759266
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Asimptomatik",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.07303083873502259,
+        "confidence": 0.8117903930131004,
+        "lift": 1.1844620230510416
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.29341976036142214,
+        "confidence": 0.8421468034727705,
+        "lift": 1.1788851123184874
+    },
+    {
+        "antecedents_str": "Suhu 26-29, Asimptomatik",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.16370064820271066,
+        "confidence": 0.8414781906300485,
+        "lift": 1.177949149938841
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.10936947554507956,
+        "confidence": 0.83956574185766,
+        "lift": 1.1752719951048578
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.05118837163622078,
+        "confidence": 0.8379421221864952,
+        "lift": 1.1729991597149823
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Asimptomatik",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.16370064820271066,
+        "confidence": 0.9654772937905467,
+        "lift": 1.1718030092708895
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.08320565704183853,
+        "confidence": 0.83451536643026,
+        "lift": 1.16820219162353
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Kelembapan 71-84",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.11231585150265173,
+        "confidence": 0.9619784656796769,
+        "lift": 1.1675564699316348
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Selesema, Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.07672362993517973,
+        "confidence": 0.9611220472440946,
+        "lift": 1.1665170320220486
+    },
+    {
+        "antecedents_str": "Selesema, Kelembapan 71-84",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.20286780593203693,
+        "confidence": 0.9611018053229109,
+        "lift": 1.1664924643348447
+    },
+    {
+        "antecedents_str": "Suhu 26-29, Sakit tekak",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.09212335494009036,
+        "confidence": 0.8327414772727273,
+        "lift": 1.1657190004386975
+    },
+    {
+        "antecedents_str": "Selesema, Kelembapan 71-84, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.12496562561382832,
+        "confidence": 0.9604468599033816,
+        "lift": 1.1656975548963229
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Hilang deria bau",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.06851306226674524,
+        "confidence": 0.9598238855255915,
+        "lift": 1.1649414488177148
+    },
+    {
+        "antecedents_str": "Suhu 26-29, Hilang deria rasa",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.05468473777253978,
+        "confidence": 0.8320382546323969,
+        "lift": 1.1647345892910066
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.6853663327440581,
+        "confidence": 0.9594148702155741,
+        "lift": 1.1644450255727574
+    },
+    {
+        "antecedents_str": "Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.6853663327440581,
+        "confidence": 0.8318314022791208,
+        "lift": 1.1644450255727574
+    },
+    {
+        "antecedents_str": "Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.2607739147515223,
+        "confidence": 0.831829573934837,
+        "lift": 1.164442466152182
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Demam, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.061284619917501476,
+        "confidence": 0.8315565031982943,
+        "lift": 1.1640602061654521
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Hilang deria rasa",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.05468473777253978,
+        "confidence": 0.9580178940123882,
+        "lift": 1.1627495108990293
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Demam",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.30944804557061484,
+        "confidence": 0.9574571532757993,
+        "lift": 1.162068937998163
+    },
+    {
+        "antecedents_str": "Suhu 26-29, Hilang deria bau",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.06851306226674524,
+        "confidence": 0.8296860133206471,
+        "lift": 1.1614417877847047
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.07672362993517973,
+        "confidence": 0.8296516567544604,
+        "lift": 1.1613936935044429
+    },
+    {
+        "antecedents_str": "Demam, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.14606167747004517,
+        "confidence": 0.8295403837572511,
+        "lift": 1.1612379272184794
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.2607739147515223,
+        "confidence": 0.9563463477885031,
+        "lift": 1.1607207496760763
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.14606167747004517,
+        "confidence": 0.956275720164609,
+        "lift": 1.1606350286935643
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.29341976036142214,
+        "confidence": 0.794828136639353,
+        "lift": 1.1597128406600212
+    },
+    {
+        "antecedents_str": "Selesema, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.12496562561382832,
+        "confidence": 0.8283854166666667,
+        "lift": 1.1596211384321382
+    },
+    {
+        "antecedents_str": "Selesema, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.20286780593203693,
+        "confidence": 0.8282277465918204,
+        "lift": 1.1594004228714687
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Demam, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.13294048320565705,
+        "confidence": 0.8279911915830682,
+        "lift": 1.1590692796825233
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Sakit tekak",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.09212335494009036,
+        "confidence": 0.9517045454545454,
+        "lift": 1.1550869787128906
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.11231585150265173,
+        "confidence": 0.825108225108225,
+        "lift": 1.1550335388324828
+    },
+    {
+        "antecedents_str": "Demam, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.30944804557061484,
+        "confidence": 0.8226631853785902,
+        "lift": 1.1516108328097237
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Demam",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.16055784718130034,
+        "confidence": 0.9487000928505107,
+        "lift": 1.1514404645739642
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 5-9, Demam, Selesema",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.06144175996857199,
+        "confidence": 0.947878787878788,
+        "lift": 1.1504436439924925
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.10936947554507956,
+        "confidence": 0.7866628991240464,
+        "lift": 1.1477991572396309
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Asimptomatik",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.08501276762914949,
+        "confidence": 0.9449781659388646,
+        "lift": 1.146923149476651
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.05118837163622078,
+        "confidence": 0.7858866103739446,
+        "lift": 1.1466664947305263
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Demam",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.13294048320565705,
+        "confidence": 0.7855153203342619,
+        "lift": 1.1461247551936624
+    },
+    {
+        "antecedents_str": "Batuk, Kelembapan 71-84, Kelajuan Angin 5-9, Selesema",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.0683166372029071,
+        "confidence": 0.9440825190010859,
+        "lift": 1.145836099803206
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.3484187782361029,
+        "confidence": 0.9438118548472916,
+        "lift": 1.145507593817661
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Kelembapan 71-84",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.11101944608131997,
+        "confidence": 0.9435726210350583,
+        "lift": 1.1452172349424217
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Asimptomatik",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.0735808289137694,
+        "confidence": 0.8179039301310043,
+        "lift": 1.1449485559549446
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.08320565704183853,
+        "confidence": 0.783573806881243,
+        "lift": 1.1432919439505929
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Demam, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.07813789039481438,
+        "confidence": 0.8161674189577349,
+        "lift": 1.1425176886036703
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Suhu 26-29, Asimptomatik",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.08348065213121195,
+        "confidence": 0.8157389635316699,
+        "lift": 1.1419179122689538
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Demam",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.05582400314280102,
+        "confidence": 0.9404367968232958,
+        "lift": 1.1414112746453533
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.14048320565704184,
+        "confidence": 0.8153214774281806,
+        "lift": 1.1413334914174185
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 5-9, Asimptomatik",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.08348065213121195,
+        "confidence": 0.9402654867256637,
+        "lift": 1.1412033550089051
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Demam, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.06144175996857199,
+        "confidence": 0.8141592920353983,
+        "lift": 1.1397065980400936
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.09970536240424278,
+        "confidence": 0.9389567147613762,
+        "lift": 1.1396148941139004
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.07369868395207228,
+        "confidence": 0.9384692346173087,
+        "lift": 1.1390232378383442
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.3642899233942251,
+        "confidence": 0.8134210526315789,
+        "lift": 1.1386731684303146
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Demam, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.061284619917501476,
+        "confidence": 0.7803901950975489,
+        "lift": 1.1386468196840598
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.061088194853663326,
+        "confidence": 0.9378769601930036,
+        "lift": 1.1383043923955993
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Suhu 26-29",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.11101944608131997,
+        "confidence": 0.812769628990509,
+        "lift": 1.1377612684752203
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.13026910233745825,
+        "confidence": 0.9369878496750494,
+        "lift": 1.1372252759966808
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 5-9",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.3642899233942251,
+        "confidence": 0.9351553045582897,
+        "lift": 1.1350011098808594
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 5-9, Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.07813789039481438,
+        "confidence": 0.9351198871650211,
+        "lift": 1.1349581236726083
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Suhu 26-29, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.0683166372029071,
+        "confidence": 0.810344827586207,
+        "lift": 1.1343668932141937
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.14048320565704184,
+        "confidence": 0.9336814621409921,
+        "lift": 1.13321230242688
+    },
+    {
+        "antecedents_str": "Kelembapan 71-84, Demam, Kelajuan Angin 5-9",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.16448634845806326,
+        "confidence": 0.9335562987736901,
+        "lift": 1.133060391230834
+    },
+    {
+        "antecedents_str": "Demam, Suhu 26-29, Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.16448634845806326,
+        "confidence": 0.8079891933616364,
+        "lift": 1.1310693421150713
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.2971518365743469,
+        "confidence": 0.8049377460891775,
+        "lift": 1.126797752238232
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.0522883519937144,
+        "confidence": 0.8027744270205067,
+        "lift": 1.1237694148596018
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.11129444117069338,
+        "confidence": 0.8005086182537441,
+        "lift": 1.120597606557911
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 1-5",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.08477705755254371,
+        "confidence": 0.7983721790603034,
+        "lift": 1.117606897161242
+    },
+    {
+        "antecedents_str": "Demam, Kelajuan Angin 1-5",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.13498330386957375,
+        "confidence": 0.797585886722377,
+        "lift": 1.1165062003144581
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 1-5, Demam, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.0625417403260656,
+        "confidence": 0.7963981990995498,
+        "lift": 1.1148436074614518
+    },
+    {
+        "antecedents_str": "Hilang deria bau",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.06485955607935573,
+        "confidence": 0.634511913912375,
+        "lift": 1.0866187277071788
+    },
+    {
+        "antecedents_str": "Hilang deria rasa",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.05032410135533294,
+        "confidence": 0.626099706744868,
+        "lift": 1.0722125965548046
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Batuk",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.06949518758593597,
+        "confidence": 0.606861063464837,
+        "lift": 1.0392659022132282
+    },
+    {
+        "antecedents_str": "Selesema, Batuk",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.11180514633667256,
+        "confidence": 0.6036055143160127,
+        "lift": 1.0336906866869013
+    },
+    {
+        "antecedents_str": "Sakit tekak",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.09679827145943823,
+        "confidence": 0.7366218236173394,
+        "lift": 1.0311652287824118
+    },
+    {
+        "antecedents_str": "Selesema, Demam",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.10045177764682774,
+        "confidence": 0.6013640639698966,
+        "lift": 1.029852142650277
+    },
+    {
+        "antecedents_str": "Selesema",
+        "consequents_str": "Kelajuan Angin 5-9",
+        "support": 0.17953250834806522,
+        "confidence": 0.6000525210084033,
+        "lift": 1.0276060900342374
+    },
+    {
+        "antecedents_str": "Demam, Sakit tekak",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.05645256334708309,
+        "confidence": 0.8443008225616921,
+        "lift": 1.0247307222766353
+    },
+    {
+        "antecedents_str": "Sakit tekak",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.09212335494009036,
+        "confidence": 0.7010463378176384,
+        "lift": 1.0228782832252656
+    },
+    {
+        "antecedents_str": "Sakit tekak",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.11062659595364369,
+        "confidence": 0.8418535127055308,
+        "lift": 1.0217604141476797
+    },
+    {
+        "antecedents_str": "Demam",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.3761539972500491,
+        "confidence": 0.8272852946258856,
+        "lift": 1.0040789193106336
+    },
+    {
+        "antecedents_str": "Asimptomatik",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.16370064820271066,
+        "confidence": 0.6858130348913759,
+        "lift": 1.000651771360769
+    },
+    {
+        "antecedents_str": "Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.2726772736201139,
+        "confidence": 0.7138009049773755,
+        "lift": 0.9992192056862678
+    },
+    {
+        "antecedents_str": "Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.3134944018856806,
+        "confidence": 0.8206499382969971,
+        "lift": 0.9960255652195709
+    },
+    {
+        "antecedents_str": "Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.2607739147515223,
+        "confidence": 0.6826408885232415,
+        "lift": 0.9960233759806897
+    },
+    {
+        "antecedents_str": "Demam",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.323197800039285,
+        "confidence": 0.7108173492310351,
+        "lift": 0.9950426542386713
+    },
+    {
+        "antecedents_str": "Asimptomatik",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.16955411510508742,
+        "confidence": 0.7103357472021067,
+        "lift": 0.9943684802589984
+    },
+    {
+        "antecedents_str": "Hilang deria rasa",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.05708112355136515,
+        "confidence": 0.7101661779081134,
+        "lift": 0.9941311074929073
+    },
+    {
+        "antecedents_str": "Selesema",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.24494205460616775,
+        "confidence": 0.818671218487395,
+        "lift": 0.9936239863918677
+    },
+    {
+        "antecedents_str": "Demam, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.15274012964054212,
+        "confidence": 0.7097480832420591,
+        "lift": 0.9935458347407948
+    },
+    {
+        "antecedents_str": "Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.17607542722451386,
+        "confidence": 0.8181818181818182,
+        "lift": 0.9930299996098881
+    },
+    {
+        "antecedents_str": "Demam",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.30944804557061484,
+        "confidence": 0.6805771556937965,
+        "lift": 0.9930122376582363
+    },
+    {
+        "antecedents_str": "Hilang deria rasa",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.05468473777253978,
+        "confidence": 0.6803519061583578,
+        "lift": 0.9926835819821735
+    },
+    {
+        "antecedents_str": "Hilang deria rasa",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.06572382636024357,
+        "confidence": 0.8176930596285436,
+        "lift": 0.9924367917248165
+    },
+    {
+        "antecedents_str": "Demam, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.14606167747004517,
+        "confidence": 0.678714859437751,
+        "lift": 0.9902950101449015
+    },
+    {
+        "antecedents_str": "Selesema",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.20286780593203693,
+        "confidence": 0.678046218487395,
+        "lift": 0.9893194137106867
+    },
+    {
+        "antecedents_str": "Asimptomatik",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.19453938322529954,
+        "confidence": 0.815009874917709,
+        "lift": 0.989180201498607
+    },
+    {
+        "antecedents_str": "Selesema, Demam",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.136122569239835,
+        "confidence": 0.8149106302916276,
+        "lift": 0.9890597479651638
+    },
+    {
+        "antecedents_str": "Selesema, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.15085444902769593,
+        "confidence": 0.8144220572640508,
+        "lift": 0.9884667652532501
+    },
+    {
+        "antecedents_str": "Hilang deria rasa, Hilang deria bau",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.052366922019249654,
+        "confidence": 0.8137973137973138,
+        "lift": 0.987708512025491
+    },
+    {
+        "antecedents_str": "Selesema",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.2110783736004714,
+        "confidence": 0.7054884453781513,
+        "lift": 0.9875829507864519
+    },
+    {
+        "antecedents_str": "Selesema, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.12496562561382832,
+        "confidence": 0.6746553552492046,
+        "lift": 0.9843718942948816
+    },
+    {
+        "antecedents_str": "Selesema, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.13011196228638774,
+        "confidence": 0.7024390243902439,
+        "lift": 0.983314197418261
+    },
+    {
+        "antecedents_str": "Selesema, Demam",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.11231585150265173,
+        "confidence": 0.6723894637817498,
+        "lift": 0.9810657916178174
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Sakit tekak",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.0516205067766647,
+        "confidence": 0.7004264392324093,
+        "lift": 0.9804968659624383
+    },
+    {
+        "antecedents_str": "Hilang deria bau",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.08257709683755647,
+        "confidence": 0.8078401229823212,
+        "lift": 0.9804782496788722
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.09247692005499902,
+        "confidence": 0.8075471698113208,
+        "lift": 0.9801226914388581
+    },
+    {
+        "antecedents_str": "Selesema, Demam",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.11675505794539383,
+        "confidence": 0.6989651928504234,
+        "lift": 0.9784513299608186
+    },
+    {
+        "antecedents_str": "Hilang deria bau",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.06851306226674524,
+        "confidence": 0.6702536510376633,
+        "lift": 0.9779494833866629
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.07672362993517973,
+        "confidence": 0.6699828473413378,
+        "lift": 0.9775543608319245
+    },
+    {
+        "antecedents_str": "Hilang deria bau",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.07138086819878217,
+        "confidence": 0.6983089930822445,
+        "lift": 0.977532744110676
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.07982714594382243,
+        "confidence": 0.6970840480274442,
+        "lift": 0.9758179961800809
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Sakit tekak",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.057591828717344334,
+        "confidence": 0.7814498933901919,
+        "lift": 0.9484483400680558
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.38955018660381063,
+        "confidence": 0.6671151776103337,
+        "lift": 0.9338658626303917
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.15046159890001964,
+        "confidence": 0.6657396141143751,
+        "lift": 0.9319402704180278
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.4478491455509723,
+        "confidence": 0.7669537136706136,
+        "lift": 0.9308542784287164
+    },
+    {
+        "antecedents_str": "Demam, Kelajuan Angin 5-9",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.20357493616185426,
+        "confidence": 0.7640813919197877,
+        "lift": 0.9273681319467028
+    },
+    {
+        "antecedents_str": "Demam, Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.17619328226281675,
+        "confidence": 0.6613093482748452,
+        "lift": 0.9257385316946868
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Asimptomatik",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.08878412885484188,
+        "confidence": 0.6612053832650673,
+        "lift": 0.9255929955462103
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.17230406599882145,
+        "confidence": 0.7623848426907701,
+        "lift": 0.9253090244930889
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Asimptomatik",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.10233745825967394,
+        "confidence": 0.76214160327677,
+        "lift": 0.9250138040056349
+    },
+    {
+        "antecedents_str": "Demam, Batuk, Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.0835592221567472,
+        "confidence": 0.6597394540942928,
+        "lift": 0.9235409043098451
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.13659398939304657,
+        "confidence": 0.7608315098468271,
+        "lift": 0.9234237392433597
+    },
+    {
+        "antecedents_str": "Demam, Batuk, Kelajuan Angin 5-9",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.09573757611471223,
+        "confidence": 0.7558933002481389,
+        "lift": 0.9174302177950878
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.1176586132390493,
+        "confidence": 0.6553610503282276,
+        "lift": 0.9174117650739679
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.08430563739933215,
+        "confidence": 0.7540407589599438,
+        "lift": 0.9151817822593511
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Kelajuan Angin 5-9",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.0754665095266156,
+        "confidence": 0.7512710207274149,
+        "lift": 0.9118201417353906
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.3642899233942251,
+        "confidence": 0.6238562970936491,
+        "lift": 0.910252323886211
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Asimptomatik",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.08348065213121195,
+        "confidence": 0.6217086015213575,
+        "lift": 0.9071186777327844
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.14048320565704184,
+        "confidence": 0.6215887363114897,
+        "lift": 0.9069437855559424
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Demam, Batuk",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.051895501866038106,
+        "confidence": 0.7467495760316563,
+        "lift": 0.9063324492388218
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.07236299351797289,
+        "confidence": 0.6472241742796907,
+        "lift": 0.9060213020396792
+    },
+    {
+        "antecedents_str": "Selesema, Demam, Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84",
+        "support": 0.0648202710665881,
+        "confidence": 0.6452874462260462,
+        "lift": 0.9033101596834583
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.11101944608131997,
+        "confidence": 0.6183807439824944,
+        "lift": 0.9022630882766477
+    },
+    {
+        "antecedents_str": "Demam, Kelajuan Angin 5-9",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.16448634845806326,
+        "confidence": 0.6173695075199057,
+        "lift": 0.9007876197362834
+    },
+    {
+        "antecedents_str": "Kelajuan Angin 5-9, Demam, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.07813789039481438,
+        "confidence": 0.6169354838709677,
+        "lift": 0.900154347239223
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Demam",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.06144175996857199,
+        "confidence": 0.6116542823621431,
+        "lift": 0.8924486849437323
+    },
+    {
+        "antecedents_str": "Selesema, Kelajuan Angin 5-9, Batuk",
+        "consequents_str": "Kelembapan 71-84, Suhu 26-29",
+        "support": 0.0683166372029071,
+        "confidence": 0.6110330288123682,
+        "lift": 0.8915422302200409
+    },
+    {
+        "antecedents_str": "Kelembapan 84-97",
+        "consequents_str": "Suhu 26-29",
+        "support": 0.0877234335101159,
+        "confidence": 0.6864432831232709,
+        "lift": 0.8331385005436923
+    }
+]
